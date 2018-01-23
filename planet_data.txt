@@ -1,5 +1,5 @@
 planet trait trait2
 jupiter big redspot 
 mars red icecaps
- 
+neptune blue windy
 
