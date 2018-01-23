@@ -3,4 +3,5 @@ jupiter big redspot
 mars red icecaps
 neptune blue windy
 uranus blue sideways
+mercury small innermost
 
