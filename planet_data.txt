@@ -1,2 +1,4 @@
 planet trait trait2
-jupiter big redspot
+jupiter big redspot 
+mars is red
+
